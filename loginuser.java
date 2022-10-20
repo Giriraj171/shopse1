@@ -1,21 +1,11 @@
- love you
- love u two
- 1
- 1
- 1
- 1
- 1
- 1
- 1
- 1
- 1
- 1
- 1
-
-
- 1
- 1
-icjlalalcncnlaalndklnvhrhnklvmkioghrkgibvtvdwvechbehn
-perform well this time
-hi
-,
+public class login
+{
+	public static void main(string args[])
+	{
+		int a=10;
+		for (i-0; 1<=10; i++)
+		{
+		system out. printin("number: "+a);
+		}
+	}
+}
